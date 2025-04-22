@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get current air pollution of Jakarta Selatan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc215d1d-aefa-4aef-ac9b-26aad85d061a</testCaseGuid>
+</TestCaseEntity>
