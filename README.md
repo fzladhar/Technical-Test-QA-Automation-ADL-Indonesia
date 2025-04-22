@@ -8,15 +8,14 @@
 7. Click **Run** (green play button)
 
 
-## 📂 Project Structure
-/Technical Test QA Automation ADL Indonesia
+/TechnicalTest-QAAutomation-ADLIndonesia
 │
-├── Object Repository/
-│   │   ├── GetForecastJaksel
-│   │   └── GetAirPollutionJaksel
+├── 📁 ObjectRepository/                   # Menyimpan elemen/objek yang digunakan dalam test cases
+│   ├── GetForecastJaksel                 # Objek untuk API Cuaca Jakarta Selatan
+│   └── GetAirPollutionJaksel            # Objek untuk API Polusi Udara Jakarta Selatan
 │
-├── Test Cases/
-│       ├── TC_WeatherForecast
-│       └── TC_AirPollution
+├── 📁 TestCases/                         # Menyimpan test case otomatisasi
+│   ├── TC_WeatherForecast               # Test case untuk validasi API prakiraan cuaca
+│   └── TC_AirPollution                  # Test case untuk validasi API polusi udara
 │
-└── README.md
+└── 📄 README.md                          # Dokumentasi proyek (instruksi setup, cara menjalankan test, dll)
